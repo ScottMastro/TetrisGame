@@ -1,0 +1,43 @@
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.ResolveComReference.cache
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe.manifest
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\bin\Debug\TetrisGame.application
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\bin\Debug\TetrisGame.pdb
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.FrmMain.resources
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.Properties.Resources.resources
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.GenerateResource.Cache
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe.manifest
+C:\Users\Valued Customer\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.application
+C:\Users\Scott\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Scott\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Scott\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.ResolveComReference.cache
+C:\Users\Scott\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+C:\Users\Scott\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe.manifest
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\bin\Debug\TetrisGame.application
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\bin\Debug\TetrisGame.pdb
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.ResolveComReference.cache
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.FrmMain.resources
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.Properties.Resources.resources
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.GenerateResource.Cache
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe.manifest
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.application
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+C:\Users\Scott\Older Files\School Work\Gr. 11\Programming\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb
+C:\Users\Scott\Desktop\TetrisGame\TetrisGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Scott\Desktop\TetrisGame\TetrisGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Scott\Desktop\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.ResolveComReference.cache
+C:\Users\Scott\Desktop\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+C:\Users\Scott\Desktop\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb

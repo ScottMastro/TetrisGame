@@ -1,0 +1,13 @@
+obj\Debug\TetrisGame.exe
+obj\Debug\TetrisGame.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TetrisGame.FrmMain.resources
+obj\Debug\TetrisGame.Properties.Resources.resources
+obj\Debug\TetrisGame.csproj.GenerateResource.Cache
+bin\Debug\TetrisGame.exe
+bin\Debug\TetrisGame.pdb
+bin\Debug\Interop.WMPLib.dll
+bin\Debug\AxInterop.WMPLib.dll
+obj\Debug\Interop.WMPLib.dll
+obj\Debug\AxInterop.WMPLib.dll
+obj\Debug\TetrisGame.csproj.ResolveComReference.cache
